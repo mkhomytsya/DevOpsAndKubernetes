@@ -9,3 +9,23 @@ https://stackify.com/what-is-sdlc
 Software Development Life Cycle (SDLC) 
 https://www.geeksforgeeks.org/software-development-life-cycle-sdlc 
 Цей ресурс від GeeksforGeeks також розглядає SDLC, надаючи детальну інформацію про різні моделі та фази життєвого циклу розробки програмного забезпечення.
+
+What Team Structure is Right for DevOps to Flourish? 
+https://web.devopstopologies.com/
+Сайт досліджує різні організаційні структури команд, які можуть сприяти успішному впровадженню DevOps. Тут можна знайти інформацію про те, як правильно організувати команди для ефективної роботи.
+
+Site Reliability Engineering: Complete 2025 Guide 
+https://configu.com/blog/site-reliability-engineering-complete-guide/ 
+Site Reliability Engineering (SRE) — це дисципліна, що поєднує принципи розробки програмного забезпечення та операційної діяльності для створення масштабованих і надійних систем. Вона спрямована на автоматизацію рутинних завдань, оптимізацію продуктивності та управління ризиками, що дозволяє командам швидко впроваджувати нові функції без шкоди для стабільності системи. Ключові практики SRE включають визначення об'єктів рівня обслуговування (SLO), моніторинг індикаторів рівня обслуговування (SLI), управління бюджетом помилок та впровадження автоматизації для зменшення ручної роботи.
+
+10+ Deploys Per Day: Dev and Ops Cooperation at Flickr.  John Allspaw & Paul Hammond Velocity 2009 
+https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr 
+Презентація Джона Оллспау та Пола Хаммонда на конференції Velocity 2009 року про те, як команда Flickr досягла більше 10 розгортань на день завдяки співпраці розробників та операцій.
+
+Матриця компетенцій DevOps/SRE 
+https://youtu.be/liCoNksG_hM 
+Відео на YouTube, де розглядається матриця компетенцій для DevOps та SRE спеціалістів, що пояснює складність та багатогранність цих ролей.
+
+SRE Competency Matrix 
+https://github.com/den-vasyliev/SRE-Competency-Matrix
+Матриця компетенцій SRE (Site Reliability Engineering) детально описує необхідні навички та інструменти для різних рівнів інженерів: від початкового до провідного. Вона охоплює сфери, такі як інфраструктура та мережі, усунення несправностей, хмарні обчислення, розподілені системи, безпека, лідерство та комунікація. Кожен рівень включає відповідні технології та практики, що допомагають інженерам розвивати кар'єру в SRE.
