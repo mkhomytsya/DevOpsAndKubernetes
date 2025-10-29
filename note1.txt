@@ -1,0 +1,11 @@
+DevOps
+https://www.atlassian.com/devops 
+Цей ресурс від Atlassian надає загальний огляд DevOps, його принципів та практик. Тут можна знайти інформацію про те, як DevOps допомагає командам розробників та операцій ефективніше співпрацювати.
+
+What Is SDLC? Understand the Software Development Life Cycle
+https://stackify.com/what-is-sdlc 
+Стаття пояснює, що таке життєвий цикл розробки програмного забезпечення (SDLC), описує його етапи та важливість для створення якісного програмного забезпечення.
+
+Software Development Life Cycle (SDLC) 
+https://www.geeksforgeeks.org/software-development-life-cycle-sdlc 
+Цей ресурс від GeeksforGeeks також розглядає SDLC, надаючи детальну інформацію про різні моделі та фази життєвого циклу розробки програмного забезпечення.
