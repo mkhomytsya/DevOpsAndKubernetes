@@ -45,3 +45,24 @@ https://www.hostzealot.com/blog/about-servers/complete-periodic-table-of-devops-
 CNCF Cloud Native Interactive Landscape
 https://landscape.cncf.io/ 
 Інтерактивний ландшафт CNCF, що візуалізує різноманітні проекти та інструменти, що входять до екосистеми Cloud Native.
+
+Pro Git book https://git-scm.com/book/uk/v2 
+Повний посібник з Git, що охоплює всі аспекти використання системи контролю версій від основ до складних сценаріїв. Книга доступна українською мовою.
+
+GitHowTo https://githowto.com/uk
+Короткі та практичні інструкції з використання Git для різних завдань, що допоможуть швидко розібратися з основними командами та робочими процесами.
+
+Лекція “GIT” курсу «CS50: Вебпрограмування з Python та JavaScript» від Гарвардського університету, який доступний на нашій платформі в перекладі українською https://youtu.be/a0CftUjkrbs 
+Відеолекція про Git від відомого курсу CS50, перекладена українською, де пояснюються основи роботи з системою контролю версій.
+
+Introduction to Github  https://github.com/skills/introduction-to-github 
+Ознайомчий курс про GitHub, платформу для хостингу та спільної роботи над Git-репозиторіями, де описані основні поняття та можливості сервісу.
+
+Посібник по Git  https://www.w3schools.com/git/git_intro.asp
+Покроковий посібник з Git від W3Schools, що допоможе початківцям освоїти базові команди та принципи роботи з системою контролю версій.
+
+Learn Git Branching  https://learngitbranching.js.org/?locale=uk
+Інтерактивний онлайн-інструмент, що дозволяє на практиці вивчити роботу з гілками в Git, візуалізуючи зміни та команди у реальному часі.
+
+How to undo (almost) anything with Git https://github.blog/open-source/git/how-to-undo-almost-anything-with-git/
+Стаття в блозі GitHub про те, як відмінити різні зміни в Git, включаючи складні випадки та поширені помилки.
