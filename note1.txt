@@ -86,3 +86,13 @@ Git Branching Strategies for DevOps https://dev.to/angelotheman/git-branching-st
 
 6 Types of Git Branching Strategy for DevOps https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54
 Стаття розглядає шість типів стратегій гілкування в Git: Main‑Only, Feature Branching, Gitflow, GitHub Flow, Trunk‑Based Development та Release Branching. Для кожної стратегії автор описує ключові сценарії застосування, переваги та недоліки. Також наведено поради щодо вибору оптимального підходу з урахуванням розміру команди, складності проєкту та потреб у CI/CD. 
+
+
+Посилання на бібліотеки:
+
+github.com/spf13/cobra
+Cobra - це бібліотека для створення потужних CLI (Command-Line Interface) додатків на мові Go. Вона спрощує створення команд, підкоманд та флагів, забезпечуючи зручний інтерфейс для користувача.
+github.com/stianeikeland/go-rpio
+go-rpio надає інтерфейс для роботи з GPIO (General-Purpose Input/Output) на Raspberry Pi з використанням мови Go. Ця бібліотека дозволяє програмістам взаємодіяти з апаратним забезпеченням плати, керуючи входами та виходами.
+github.com/tucnak/telebot
+Telebot - це бібліотека для створення ботів для Telegram на мові Go. Вона надає простий та зручний API для розробки ботів, що можуть взаємодіяти з користувачами через Telegram.
