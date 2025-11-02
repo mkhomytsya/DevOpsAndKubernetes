@@ -86,3 +86,40 @@ Git Branching Strategies for DevOps https://dev.to/angelotheman/git-branching-st
 
 6 Types of Git Branching Strategy for DevOps https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54
 Стаття розглядає шість типів стратегій гілкування в Git: Main‑Only, Feature Branching, Gitflow, GitHub Flow, Trunk‑Based Development та Release Branching. Для кожної стратегії автор описує ключові сценарії застосування, переваги та недоліки. Також наведено поради щодо вибору оптимального підходу з урахуванням розміру команди, складності проєкту та потреб у CI/CD. 
+
+
+Посилання на бібліотеки:
+
+github.com/spf13/cobra
+Cobra - це бібліотека для створення потужних CLI (Command-Line Interface) додатків на мові Go. Вона спрощує створення команд, підкоманд та флагів, забезпечуючи зручний інтерфейс для користувача.
+github.com/stianeikeland/go-rpio
+go-rpio надає інтерфейс для роботи з GPIO (General-Purpose Input/Output) на Raspberry Pi з використанням мови Go. Ця бібліотека дозволяє програмістам взаємодіяти з апаратним забезпеченням плати, керуючи входами та виходами.
+github.com/tucnak/telebot
+Telebot - це бібліотека для створення ботів для Telegram на мові Go. Вона надає простий та зручний API для розробки ботів, що можуть взаємодіяти з користувачами через Telegram.
+
+
+Репозиторій з командами з відео-лекції
+https://github.com/den-vasyliev/k8sdiy-env/blob/main/scripts/containerization.sh
+
+Control Group v2 https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html 
+Це офіційна документація ядра Linux про cgroup v2, яка детально описує функціональність та використання цієї технології для управління ресурсами. Вона містить технічні подробиці та інструкції з налаштування.
+
+Introduction to Linux Containers https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/overview_of_containers_in_red_hat_systems/introduction_to_linux_containers 
+Цей ресурс від Red Hat надає вступ до Linux контейнерів, пояснюючи їхню концепцію та основні принципи роботи в контексті систем Red Hat Enterprise Linux. Він корисний для розуміння базових понять контейнеризації.
+
+Avoiding CPU Throttling in a Containerized Environment https://www.uber.com/en-GB/blog/avoiding-cpu-throttling-in-a-containerized-environment/ 
+Стаття в блозі Uber, яка розглядає проблему обмеження CPU (CPU throttling) у контейнерному середовищі та пропонує практичні поради для її уникнення. Вона містить реальні приклади та рекомендації з досвіду компанії.
+
+Tackling CPU Throttling in Kubernetes for Better Application Performance
+https://dev.to/causely/tackling-cpu-throttling-in-kubernetes-for-better-application-performance-1dko
+Стаття пояснює, як проявляється CPU-throttling у сучасних кластерах Kubernetes, показує спосіб його виявлення за метриками cgroup v2 (nr_throttled, throttled_time) у файлі cpu.stat і пропонує практичні кроки для усунення — від збільшення cpu.cfs_quota_us до використання HPA та прив’язки потоків до процесорів у latency-sensitive pod-ах.
+
+Using cgroups-v2 to control distribution of CPU time for applications
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/using-cgroups-v2-to-control-distribution-of-cpu-time-for-applications_managing-monitoring-and-updating-the-kernel
+Розділ містить покроковий посібник зі створення ієрархії cgroup v2, увімкнення контролера cpu, формування дочірніх груп і обмеження навантажень через абсолютні квоти (cpu.max) або пропорційні ваги (cpu.weight); усі необхідні команди наведено від підготовки до перевірки результату.
+
+Configuring resource management by using cgroups-v2 and systemd
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/assembly_configuring-resource-management-using-systemd_managing-monitoring-and-updating-the-kernel
+
+Network Setup With runC Containers
+https://medium.com/@Mark.io/https-medium-com-mark-io-network-setup-with-runc-containers-46b5a9cc4c5b
