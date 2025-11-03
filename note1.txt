@@ -1,3 +1,5 @@
+https://github.com/kelseyhightower/kubernetes-the-hard-way/tree/master
+
 97 речей які повинен знати кожен SRE | Огляд книги | Моя добірка до srenity.online
 https://dou.ua/forums/topic/50265/
 
