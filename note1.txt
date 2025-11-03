@@ -1,3 +1,26 @@
+97 речей які повинен знати кожен SRE | Огляд книги | Моя добірка до srenity.online
+https://dou.ua/forums/topic/50265/
+
+Site Reliability Engineering https://sre.google/books/ 
+Класична книга від Google, яка описує принципи та практики SRE.
+
+The Site Reliability Workbook https://sre.google/books/ 
+Практичний посібник з впровадження SRE-принципів, з прикладами та кейсами.
+
+The SRE Report 2025 https://www.catchpoint.com/asset/2025-sre-report 
+Щорічний звіт від Catchpoint з аналізом тенденцій та практик у сфері SRE.
+
+Site Reliability Engineering State of the Union for 2024: Embracing Innovation and Efficiency in the Age of Generative AI
+https://devops.com/site-reliability-engineering-state-of-the-union-for-2024-embracing-innovation-and-efficiency-in-the-age-of-generative-ai/
+Огляд ключових трендів у SRE, включаючи вплив генеративного AI.
+
+Top 10 site reliability engineering tools for 2025 https://www.port.io/blog/top-site-reliability-engineers-tools
+Список інструментів, які використовуються SRE-інженерами для моніторингу, автоматизації та управління інцидентами.
+
+A Complete Guide to SRE Incident Management: Best Practices and Lifecycle https://medium.com/%40squadcast/a-complete-guide-to-sre-incident-management-best-practices-and-lifecycle-2f829b7c9196 
+
+
+
 DevOps
 https://www.atlassian.com/devops 
 Цей ресурс від Atlassian надає загальний огляд DevOps, його принципів та практик. Тут можна знайти інформацію про те, як DevOps допомагає командам розробників та операцій ефективніше співпрацювати.
