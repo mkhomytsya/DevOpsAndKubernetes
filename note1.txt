@@ -1,3 +1,29 @@
+Certified Kubernetes Administrator (CKA) https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+Сторінка сертифікації CKA від Linux Foundation, яка підтверджує знання та навички адміністрування Kubernetes. Тут можна знайти інформацію про іспит, вимоги та реєстрацію.
+
+Безкоштовні курси від Linux Foundation українською на Prometheus:
+
+Основи Kubernetes https://courses.prometheus.org.ua/courses/course-v1:LinuxFoundation+INTRO101+2023_T1/about
+Це безкоштовний онлайн-курс українською мовою на платформі Prometheus, який знайомить з основами Kubernetes. Курс розроблений Linux Foundation і доступний для всіх бажаючих.
+Основи Linux https://courses.prometheus.org.ua/courses/course-v1:LinuxFoundation+INTRO_LINUX101+2023_T1/about
+Це також безкоштовний курс українською на Prometheus, який навчає основам операційної системи Linux. Він є базовим для розуміння багатьох технологій, включаючи Kubernetes.
+Git для розподіленої розробки програмного забезпечення https://courses.prometheus.org.ua/courses/course-v1:LinuxFoundation+GIT101+2023_T1/about
+Цей курс на Prometheus навчає роботі з системою контролю версій Git, яка є важливою для розробки програмного забезпечення, особливо в команді.
+Концепції Kubernetes https://kubernetes.io/uk/docs/concepts/
+Офіційна документація Kubernetes українською мовою, де детально описані всі основні концепції та принципи роботи платформи. Це важливе джерело інформації для поглибленого вивчення.
+
+Переклад українською офіційної документації Kubernetes від слухача курсу DevOps та Kubernetes Андрія Головіна https://andygol-k8s.netlify.app/uk/
+
+Kubernetes Tutorial https://www.geeksforgeeks.org/kubernetes-tutorial/
+Покроковий посібник, що охоплює матеріал від основ до передових концепцій Kubernetes, включаючи архітектуру, сервіси, деплойменти та мережеві налаштування.
+
+Інтеграція AI/ML з Kubernetes https://cloud.google.com/kubernetes-engine/docs/integrations/ai-infra
+Документація від Google Cloud описує, як використовувати Google Kubernetes Engine для оркестрації AI/ML робочих навантажень, включаючи підтримку GPU та TPU, інтеграцію з Hugging Face TGI та іншими фреймворками.
+
+The Machine Learning Toolkit for Kubernetes https://www.kubeflow.org/
+Сторінка проекту kubeflow - інструменту машинного навчання, що робить штучний інтелект та машинне навчання простим, портативним та масштабованим.
+
+
 https://github.com/kelseyhightower/kubernetes-the-hard-way/tree/master
 
 97 речей які повинен знати кожен SRE | Огляд книги | Моя добірка до srenity.online
