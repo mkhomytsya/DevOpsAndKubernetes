@@ -1,3 +1,5 @@
+https://kubebyexample.com/
+
 Certified Kubernetes Administrator (CKA) https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
 Сторінка сертифікації CKA від Linux Foundation, яка підтверджує знання та навички адміністрування Kubernetes. Тут можна знайти інформацію про іспит, вимоги та реєстрацію.
 
