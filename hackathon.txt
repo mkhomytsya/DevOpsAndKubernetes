@@ -1,0 +1,5 @@
+https://newsletter.pragmaticengineer.com/p/mcp-deepdive
+https://google.github.io/adk-docs/
+https://thenewstack.io/what-is-googles-agent-development-kit-an-architectural-tour/
+https://github.com/v2dY/mcp-operator/
+https://github.com/yurii-bielodied/SuperKuberTeam
