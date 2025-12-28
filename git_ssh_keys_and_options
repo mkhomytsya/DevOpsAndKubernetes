@@ -1,0 +1,10 @@
+git ssh keys
+
+ssh-keygen -t ed25519 -C "khomarko@gmail.com"
+
+cat ~/.ssh/id_ed25519.pub
+
+Скопіювати цей текст і додати його у свій GitHub: Settings -> SSH and GPG keys -> New SSH key.
+
+git config user.email "khomarko@gmail.com"
+git config user.name "Marko Khomytsia"
