@@ -2,7 +2,7 @@ git ssh keys
 
 ssh-keygen -t ed25519 -C "khomarko@gmail.com"
 
-cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub | pbcopy
 
 Скопіювати цей текст і додати його у свій GitHub: Settings -> SSH and GPG keys -> New SSH key.
 
@@ -15,3 +15,6 @@ git pull --rebase origin main
 
 надіслати об'єднані зміни
 git push origin main
+
+detect exact used key
+ssh -T git@gitea-xxx.xxx.t-xxx.net -p 3222 -v
