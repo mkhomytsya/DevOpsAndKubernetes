@@ -1,1 +1,6 @@
 
+https://hackyourmom.com/osvita/posibnyk-iz-bezpeky-kubernetes-z-chogo-pochaty-zahyst-chastyna-1/
+
+https://hackyourmom.com/osvita/posibnyk-iz-bezpeky-kubernetes-zakryvayemo-bazovi-vhody-ta-nalashtovuyemo-dostup-chastyna-2/
+
+https://hackyourmom.com/osvita/posibnyk-iz-bezpeky-kubernetes-zahyst-obraziv-ta-kontrol-kontejneriv-chastyna-3/
